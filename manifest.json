@@ -1,0 +1,15 @@
+{
+    "name":"PROGRAMMING JOKES",
+    "version":"0.0.1",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"JOKE.HTML"
+    },
+    "icons":{
+        "128":"icons8-chrome-128.png",
+        "64":"/icons8-chrome-64.png"
+    },
+    "permissions":[
+        "activeTab"
+    ]
+}
